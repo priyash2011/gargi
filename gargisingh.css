@@ -1,0 +1,16 @@
+ h1 {color:darkgoldenrod;text-transform:capitalize;text-decoration:underline;
+font-style:italic;border:1px outset;font-size:80px;}
+
+hr{color:burlywood}
+body{border:1px solid grey;}
+img{height:200px; width:100px;}
+img.festival{border:3px outset goldenrod;float:center;}
+body{background-repeat:no-repeat;background-size:cover;background-position: center;}
+.highlight{
+    background-color: yellow;
+    color: brown;
+    font-size:200px;
+    text-align:center ;
+    font-family:Arial,sans-serif;}
+h4{background-image:url("1767446717932.jpg");border:3px outset goldenrod;}
+h6{font-size:12px;color:pink;font-style:italic;}
